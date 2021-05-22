@@ -22,7 +22,7 @@ trove_classifiers = [
     "Topic :: Utilities",
     ]
 
-setup(name="magic-wormhole",
+setup(name="twfb-wormhole",
       version=versioneer.get_version(),
       description="Securely transfer data between computers",
       long_description=open('README.md', 'r').read(),
